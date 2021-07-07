@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/hibernate-core-5.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/hibernate-java8-5.0.12.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Documents/Espacio de trabajo/Libs HBM 5 para Java 8/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
