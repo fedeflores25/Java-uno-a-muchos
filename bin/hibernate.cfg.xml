@@ -3,7 +3,7 @@
 <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
 <property name="connection.url">jdbc:mysql://127.0.0.1:3306/bd-hibernate-uno-a-muchos-cuotas</property>
 <property name="connection.username">root</property>
-<property name="connection.password">Root</property>
+<property name="connection.password">root</property>
 <property name="connection.pool_size">1</property>
 <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
 <property name="show_sql">true</property> <!-- en true muestra hql en consola -->
